@@ -1,1 +1,1 @@
-console.log('bug fix DEX-1 CHANGE 1');
+console.log('bug fix DEX-1 CHANGE 2');
